@@ -1,31 +1,41 @@
-# Jatin Sharma
+# Hi, I'm Jatin Sharma 👋
 
-Frontend engineer focused on responsive, accessible, and performance-conscious web experiences.
+> **Frontend Developer & UI/UX Designer** focused on building responsive, accessible, and performance-driven web experiences.
 
-I turn product ideas and UI designs into maintainable interfaces with **React, TypeScript, JavaScript, HTML, and CSS**. I use AI to speed up research and iteration, then validate the code with browser testing, accessibility checks, and real user flows.
+I specialize in transforming product concepts and UI wireframes into clean, maintainable, and pixel-perfect web interfaces. My focus is centered on clean markup, modern CSS architecture (Flexbox, CSS Grid, BEM), vanilla JavaScript, and robust component design.
 
-## Featured work
+---
 
-- [Portfolio](https://github.com/jatin2267/jatin-latest-portfolio) — Personal site and selected frontend work.
-- [Frontend Dashboard](https://github.com/jatin2267/frontend-dashboard) — React + TypeScript analytics dashboard.
-- [E-commerce API Store](https://github.com/jatin2267/ecommerce-api-store) — Product discovery and cart experience powered by an API.
-- [Wildlife Website](https://github.com/jatin2267/wildlife-website) — Responsive multi-page UI case study.
+## 🛠️ Technical Skills
 
-## What I care about
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript
+- **Styling & Architecture:** Responsive Web Design, Flexbox, CSS Grid, CSS Custom Properties (Variables), BEM Methodology, Bootstrap 5, Media Queries
+- **UI & Animation Libraries:** AOS (Animate on Scroll), Swiper.js, Animate.css, FontAwesome
+- **Build Tools & Workflow:** Node.js, npm, Asset Optimization & Obfuscation (`clean-css`, `html-minifier-terser`, `javascript-obfuscator`), Git, GitHub, GitHub CLI
+- **Core Principles:** Semantic HTML, Web Accessibility (a11y), Cross-Browser Compatibility, Mobile-First Development
 
-- Semantic, keyboard-friendly interfaces
-- Responsive layouts that work on real devices
-- Clear loading, empty, and error states
-- Reusable components and readable code
-- Fast pages, optimized images, and meaningful SEO metadata
+---
 
-## Current focus
+## 🚀 Featured Projects
 
-React, TypeScript, API integration, automated testing, and frontend performance.
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| **[Job Portal Platform](https://github.com/jatin2267/job-portal-websit)** | Comprehensive 30+ page job board and campus placement platform with dedicated dashboards for candidates, recruiters, and placement officers. | HTML5, CSS3, FontAwesome, SVG |
+| **[Wildlife Safari Tour Website](https://github.com/jatin2267/wildlife-website)** | Multi-page tourism platform for Masai Mara featuring an animal guide, tour packages, photo gallery, and booking flows. | HTML5, CSS3, JavaScript, Media Queries |
+| **[Developer Portfolio & Build Pipeline](https://github.com/jatin2267/jatin-latest-portfolio)** | Dark-themed personal portfolio powered by an automated Node.js asset minification, CSS compression, and JS obfuscation pipeline. | HTML5, CSS3, JavaScript, Node.js |
+| **[TechHub Computer Center](https://github.com/jatin2267/Computer-Education-Center-website)** | Educational institute web portal with course curricula, difficulty tiers, Swiper sliders, and enrollment forms. | HTML5, Bootstrap 5, Swiper, AOS |
+| **[PlayStation Gaming Lounge & Cafe](https://github.com/jatin2267/GAming-cafe-website)** | Neon cyberpunk gaming lounge showcase featuring esports tournament boards, hardware arenas, and VIP zones. | HTML5, CSS3, Bootstrap 5, AOS |
+| **[Interactive Portfolio & Resume](https://github.com/jatin2267/portfolio-jatin)** | Personal showcase website featuring interactive case study modals, design token variables, and a downloadable resume. | HTML5, CSS3, JavaScript, PDF |
+| **[JavaScript Practice & Deep Dive](https://github.com/jatin2267/chai-aurr-code-js-practice)** | Extensive code repository exploring ES6+ fundamentals, stack vs. heap memory architecture, closures, arrays, and objects. | JavaScript (ES6+), Node.js, HTML5 |
 
-## Connect
+---
 
-- [LinkedIn](https://www.linkedin.com/in/jatincore/)
-- [GitHub](https://github.com/jatin2267)
+## 📬 Connect With Me
 
-Open to frontend engineering opportunities and collaborations.
+- **GitHub:** [@jatin2267](https://github.com/jatin2267)
+- **LinkedIn:** [linkedin.com/in/jatincore](https://www.linkedin.com/in/jatincore/)
+- **Email:** [jatinw3wc@gmail.com](mailto:jatinw3wc@gmail.com)
+
+---
+
+⭐️ *Open to frontend engineering opportunities, open-source collaborations, and UI/UX design projects.*
